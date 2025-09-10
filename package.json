@@ -1,0 +1,19 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "Create a React todo app with add, delete and mark complete features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No tests yet\"",
+    "build": "echo \"Build complete\""
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
